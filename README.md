@@ -1,2 +1,2 @@
 # sam
-TIMES-US Model
+Documentation repository for TIMES-US Model
